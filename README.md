@@ -7,6 +7,15 @@ General Analysis and take-aways
 
 By looking at the data, we can see that a large number of employees are reaching retirement age.  The two job titles with highest number of retiring workers are: Senior Engineers and Senor Staff.  These titles signify long tenure, and leadership level roles.  When the people in these positions retire, the workforce will lose a lot of the knowledge keepers and subject matter experts.  Industries will face difficulty in maintaining their level of performance if this “silver tsunami” of retirements occur, without proper documentation of roles and job instructions.  Part of our analysis is to determine  how many skilled employees are not immediately retiring, but tenured enough to train and assist with new hires.
 
+The table below tells us that:
+•	There are 72458 unique roles filled by employees which are retirement ready.
+•	50842 retirement-ready employees hold senior-level job titles.
+•	Over 70% of the soon-to-be-retires hold senior-level job titles.
+•	With the departure of well over half of the senior-level employees, the company will lose a lot of knowledge and expertise, unless something is done to train in new hires before the subject-matter-experts retire.
+
+![image](https://user-images.githubusercontent.com/101843701/169734427-72027b44-7092-4d82-856d-cf3cdfab28ee.png)
+
+
 <img width="201" alt="image" src="https://user-images.githubusercontent.com/101843701/169732705-819beee6-a0ee-4fc7-9bd5-fe99adc0b948.png">
 
 Mentorship Analysis
