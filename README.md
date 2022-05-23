@@ -14,9 +14,6 @@ The table below tells us that:
 •	With the departure of well over half of the senior-level employees, the company will lose a lot of knowledge and expertise, unless something is done to train in new hires before the subject-matter-experts retire.
 
 
-![image](https://user-images.githubusercontent.com/101843701/169734427-72027b44-7092-4d82-856d-cf3cdfab28ee.png)
-
-
 <img width="201" alt="image" src="https://user-images.githubusercontent.com/101843701/169732705-819beee6-a0ee-4fc7-9bd5-fe99adc0b948.png">
 
 Mentorship Analysis
